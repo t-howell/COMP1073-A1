@@ -1,0 +1,25 @@
+{
+  "name": "comp1073a1",
+  "homepage": "https://github.com/t-howell/COMP1073-A1",
+  "authors": [
+    "thowell <tamara.howell@hotmail.com>"
+  ],
+  "description": "COMP1073 Assignment 1",
+  "main": "",
+  "keywords": [
+    "JavaScript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "bootstrap": "^3.3.7"
+  }
+}
