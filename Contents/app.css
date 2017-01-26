@@ -1,0 +1,11 @@
+nav > img {
+	float: left;
+	size: 100%;
+}
+nav {
+	size: 200%;
+}
+div#main {
+	padding-left: 10em;
+	padding-top: 1em;
+}
