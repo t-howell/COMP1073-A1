@@ -31,3 +31,9 @@ var contactMessage = document.getElementById("message");
 var messageContent = "Your message";
 
 contactMessage.textContent = messageContent;
+
+//Submit button redirect
+
+var submitButton = document.getElementById("submit");
+
+submitButton.onclick =
