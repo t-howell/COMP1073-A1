@@ -1,6 +1,6 @@
 // File: app.js 
 // Author: Tamara Howell
-// Site: 
+// Site: http://comp1073-a1.azurewebsites.net/
 // Description: Contains JavaScript for About Me page
 
 console.log("Page works kinda");

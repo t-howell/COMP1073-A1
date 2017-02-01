@@ -1,13 +1,13 @@
 // File: contact.js 
 // Author: Tamara Howell
-// Site: 
+// Site: http://comp1073-a1.azurewebsites.net/
 // Description: Contains JavaScript for Contact page
 
 // Form Main Heading
 
 var contactHeading = document.getElementById("contactHeading");
 
-var headingContent = "Let's Connect";
+var headingContent = "Let's Connect!";
 
 contactHeading.textContent = headingContent;
 
