@@ -1,4 +1,9 @@
-// ----------------- Contact Page -----------------------------
+// File: contact.js 
+// Author: Tamara Howell
+// Site: 
+// Description: Contains JavaScript for Contact page
+
+// Form Main Heading
 
 var contactHeading = document.getElementById("contactHeading");
 
@@ -8,7 +13,7 @@ contactHeading.textContent = headingContent;
 
 //------------------  Form h3's  ------------------------------
 
-//Contact name
+//Contact Name
 
 var contactName = document.getElementById("name");
 
@@ -16,7 +21,7 @@ var nameHeading = "Name";
 
 contactName.textContent = nameHeading;
 
-//Contact email
+//Contact Email
 
 var contactEmail = document.getElementById("email");
 
@@ -24,7 +29,7 @@ var emailContent = "Email Address";
 
 contactEmail.textContent = emailContent;
 
-//Contact message
+//Contact Message
 
 var contactMessage = document.getElementById("message");
 
@@ -32,8 +37,3 @@ var messageContent = "Your message";
 
 contactMessage.textContent = messageContent;
 
-//Submit button redirect
-
-var submitButton = document.getElementById("submit");
-
-submitButton.onclick =

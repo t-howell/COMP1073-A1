@@ -1,5 +1,7 @@
-// ------------------ Home Page -------------------------
-
+// File: app.js 
+// Author: Tamara Howell
+// Site: 
+// Description: Contains JavaScript for About Me page
 
 console.log("Page works kinda");
 
@@ -12,24 +14,13 @@ var aboutContent = "My name is Tamara. I'm a second semester web design student 
 				+ "My interest in design stems from my enjoyment of helping others. I actively imagine the kinds of "
 				+ "applications and well-built websites that could be useful to people." ;
 
-//assign the var with content to the reference
+//Assign the variable with content to the reference
 aboutMe.textContent = aboutContent;
 
 
-
+// About Me Heading
 var aboutHeading = document.getElementById("aboutHeading");
 
 var headerContent = "About Me";
 
 aboutHeading.innerHTML = headerContent;
-
-
-// ----------------- Contact Page -----------------------------
-
-//var contactHeading = document.getElementById("contactHeading");
-
-//var headingContent = "Let's Connect";
-
-//contactHeading.textContent = headingContent;
-
-// ----------------- Projects Page ----------------------------
